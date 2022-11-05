@@ -1,1 +1,2 @@
-console.log('inBeach');
+const testVar = 'inBeach';
+console.log(testVar);
